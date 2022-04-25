@@ -5,8 +5,6 @@
 <!--- Why this is chaning -->
 <!--- How is your code hitting the above -->
 
-For example: implement 3DS on renewal payment page and gifting payment page
-
 ## Types of changes
 <!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
 - [ ] Bug fix (non-breaking change which fixes an issue)
